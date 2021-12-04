@@ -1,6 +1,6 @@
 ## Hi there :christmas_tree:
   
-<a><img width="50%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mirrkou&show_icons=true&line_height=20&icon_color=27A438&include_all_commits=true&theme=prussian&hide_border=true"></a>
+<a><img width="100%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mirrkou&show_icons=true&line_height=20&icon_color=27A438&include_all_commits=true&theme=prussian&hide_border=true"></a>
 
 ## What am I doing now?
 I’m currently working as a QA engineer :woman_technologist:. 
