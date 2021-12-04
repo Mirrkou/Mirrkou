@@ -1,10 +1,12 @@
 ## Hi there :christmas_tree:
+  
+<a><img width="50%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mirrkou&show_icons=true&line_height=20&icon_color=27A438&include_all_commits=true&theme=prussian&hide_border=true"></a>
 
-### What about my work?
-:tulip: I’m currently working as a QA engineer :woman_technologist:. 
+## What am I doing now?
+I’m currently working as a QA engineer :woman_technologist:. 
 
-### What am I currently up to?
-:sunflower: I’m currently learning qa.guru course :woman_student: with studying tools:
+## What am I currently up to?
+I’m currently learning qa.guru course :woman_student: with tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">
@@ -18,5 +20,5 @@
   <img src="https://img.shields.io/badge/-Telegram%20(notifications)-20793B?logo=Telegram&style=flat">
 </p>
 
-### Fun fact
-I love cake, a lot of :cake: :cake: :cake:.
+## Fun fact about me?
+I love cake, a lot of :cake: :cake: :cake:. Enjoy :wink:.
