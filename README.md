@@ -6,7 +6,7 @@
 I’m currently working as a QA engineer :woman_technologist:. 
 
 ## What am I currently up to?
-I’m currently learning qa.guru course :woman_student: with tools:
+I’m currently learning qa.guru course :woman_student: with automation tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">
